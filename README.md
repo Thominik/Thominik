@@ -1,4 +1,11 @@
-Hi 👋 My name is Dominik Bednarz ================================  Full-stack developer --------------------  I have been interested in programming for about 3 years. I am a 4rd year student of computer science with a specialization in programming. For a long time I could not find a suitable technology for myself, but for 12 months I have been studying Full-stack developer (.NET + Angular | React).  * 🌍  I'm based in Rzeszów, Poland * ✉️  You can contact me at [dominikbednarz.ti@gmail.com](mailto:dominikbednarz.ti@gmail.com) * 🧠  I'm learning .NET, React and Angular
+Hi 👋 My name is Dominik Bednarz 
+================================  
+Full-stack developer 
+--------------------  
+I have been interested in programming for about 3 years. I am a 4rd year student of computer science with a specialization in programming. For a long time I could not find a suitable technology for myself, but for 12 months I have been studying Full-stack developer (.NET + Angular | React).  
+* 🌍  I'm based in Rzeszów, Poland 
+* * ✉️  You can contact me at [dominikbednarz.ti@gmail.com](mailto:dominikbednarz.ti@gmail.com) 
+* * 🧠  I'm learning .NET, React and Angular
 
 ### Skills  
 
